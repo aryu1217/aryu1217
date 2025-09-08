@@ -5,6 +5,15 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ryu200112)](https://solved.ac/ryu200112/)
 
 <a href="https://github.com/devxb/gitanimals">
+
+  <a href="https://www.gitanimals.org/">
+      <img
+        src="https://render.gitanimals.org/guilds/752853645629701768/draw"
+        width="600"
+        height="300"
+        alt="gitanimals"
+      />
+    </a>
   <img src="https://render.gitanimals.org/lines/{aryu1217}?pet-id=752847722655878586" width="1000" height="120" />
 </a>
 
