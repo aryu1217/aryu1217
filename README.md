@@ -1,5 +1,9 @@
 ## RYU TAE HYUN 🐟
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ryu200112)](https://solved.ac/ryu200112/)
+<br>
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/{aryu1217}?pet-id=752847722655878586" width="1000" height="120"/>
+</a>
 <br><br><br>
 <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
