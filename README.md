@@ -2,9 +2,15 @@
 
 ## RYU TAE HYUN 🐟
 
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/{aryu1217}?pet-id=752847722655878586" width="1000" height="120" />
+
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=aryu1217&utm_content=line">
+  <img
+    src="https://render.gitanimals.org/lines/aryu1217?pet-id=754371281114996219"
+    width="540"
+    height="120"
+  />
 </a>
+  
 
 <br><br>
 
