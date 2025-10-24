@@ -9,8 +9,6 @@
     height="120"
   />
 </a>
-  
-[![hits](https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2Faryu1217?color=blue&label=hits&size=small&base_count=70)](https://myhits.vercel.app)
 
 <br><br>
 
