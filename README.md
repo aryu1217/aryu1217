@@ -11,16 +11,16 @@
 ## Projects
 ### 피우다 프로젝트
 - 프로젝트 내 3개 서비스 실증 중
-  - 3D Map 기반 해양활동 시각화 대시보드 (Web) <br>
-    <a>https://velog.io/@aryu1217/API는-빨랐는데-라우트가-느렸다-Next.js</a>
-  - 다이빙 활동 및 대시보드 관리 (Admin Web)
-  - 다이빙 활동 제출 (PWA)
+  - 해양 복원 활동 성과 시각화 대시보드 (Web) <br>
+  - 해양 복원 활동 기록 제출 앱 (PWA)
+  - 복원 활동 기록 관리 및 대시보드 관리 (Back Office Web)
+
 
 
 ### 큐잉 - 음악 감상 공유 웹 (개발중)
 - 음악 감상/공유 서비스 개발 진행중  
 
 ## Tech Stack
-- Frontend: Next.js, React, TypeScript, Tailwind CSS, HTML/CSS, JavaScript  
-- Server State: React Query  
+- Frontend: Next.js, React, Tanstack Router, TypeScript, Tailwind CSS, HTML/CSS, JavaScript  
+- State Management: React Query, Jotai  
 - Testing: Jest  
