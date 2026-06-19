@@ -25,3 +25,5 @@
 - State Management: React Query, Jotai  
 - Testing: Jest  
 
+## [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=aryu1217)](https://velog.io/@aryu1217/posts)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=aryu1217)](https://velog.io/@aryu1217/posts)
