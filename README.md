@@ -17,10 +17,5 @@
 
 <img width="20" height="20" alt="General Organization Settings (1)" src="https://github.com/user-attachments/assets/5a112656-5845-48ce-9c39-073a51729416" /> 큐잉 - 음악 감상 공유 웹 (개발중)
 
-## Tech Stack
-- Frontend: Next.js, React, Tanstack Router, TypeScript, Tailwind CSS, HTML/CSS, JavaScript  
-- State Management: React Query, Jotai  
-- Testing: Jest  
-
 ## [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=aryu1217)](https://velog.io/@aryu1217/posts)
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=aryu1217)](https://velog.io/@aryu1217/posts)
