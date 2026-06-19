@@ -17,7 +17,7 @@
 
 
 
-### 큐잉 - 음악 감상 공유 웹 (개발중)
+### <img width="20" height="20" alt="General Organization Settings" src="https://github.com/user-attachments/assets/a4b4f322-0a4f-44fd-b278-71d571f7cc57" /> 큐잉 - 음악 감상 공유 웹 (개발중)
 - 음악 감상/공유 서비스 개발 진행중  
 
 ## Tech Stack
