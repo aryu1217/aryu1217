@@ -9,16 +9,13 @@
   <a>https://velog.io/@aryu1217/최우수상-15회-피우다-프로젝트-SW-개발-공모전-회고</a>
 
 ## Projects
-### <img width="20" height="20" alt="General Organization Settings" src="https://github.com/user-attachments/assets/a4b4f322-0a4f-44fd-b278-71d571f7cc57" /> 피우다 프로젝트
+<img width="20" height="20" alt="General Organization Settings" src="https://github.com/user-attachments/assets/a4b4f322-0a4f-44fd-b278-71d571f7cc57" /> 피우다 프로젝트
 - 프로젝트 내 3개 서비스 실증 중
   - 해양 복원 활동 성과 시각화 대시보드 (Web) <br>
   - 해양 복원 활동 기록 제출 앱 (PWA)
   - 복원 활동 기록 관리 및 대시보드 관리 (Back Office Web)
 
-
-
-### <img width="20" height="20" alt="General Organization Settings (1)" src="https://github.com/user-attachments/assets/5a112656-5845-48ce-9c39-073a51729416" /> 큐잉 - 음악 감상 공유 웹 (개발중)
-- 음악 감상/공유 서비스 개발 진행중  
+<img width="20" height="20" alt="General Organization Settings (1)" src="https://github.com/user-attachments/assets/5a112656-5845-48ce-9c39-073a51729416" /> 큐잉 - 음악 감상 공유 웹 (개발중)
 
 ## Tech Stack
 - Frontend: Next.js, React, Tanstack Router, TypeScript, Tailwind CSS, HTML/CSS, JavaScript  
