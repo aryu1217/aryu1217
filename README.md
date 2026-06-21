@@ -10,7 +10,6 @@
 
 ## Projects
 <img width="20" height="20" alt="General Organization Settings" src="https://github.com/user-attachments/assets/a4b4f322-0a4f-44fd-b278-71d571f7cc57" /> 피우다 프로젝트
-- 프로젝트 내 3개 서비스 실증 중
   - 해양 복원 활동 성과 시각화 대시보드 (Web) <br>
   - 해양 복원 활동 기록 제출 앱 (PWA)
   - 복원 활동 기록 관리 및 대시보드 관리 (Back Office Web)
